@@ -57,7 +57,3 @@ Words starts with "da":
 ## ⏱️ Complexity
 
 Insert, search, and prefix search run in **O(L)** time, where L is the length of the word. This does not depend on the number of words stored.
-
-## 👤 Author
-
-**Your Name** – [GitHub](https://github.com/USERNAME)
